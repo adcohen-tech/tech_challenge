@@ -1,5 +1,8 @@
 package org.israeltech;
 
+//Running WordCount:
+//hadoop jar ./bin/word_count-0.0.1-SNAPSHOT.jar org.israeltech.WordCount pp/word_count output/word_count
+
 import java.io.IOException;
 import java.util.*;
         
