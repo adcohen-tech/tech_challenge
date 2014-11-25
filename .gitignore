@@ -1,4 +1,7 @@
+word_count/target/
+word_count/.settings
 *.class
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
