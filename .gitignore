@@ -1,5 +1,6 @@
 word_count/target/
 word_count/.settings
+word_count_python/.idea/*
 *.class
 
 
